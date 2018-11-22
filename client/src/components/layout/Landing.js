@@ -17,11 +17,12 @@ class Landing extends Component {
           <div className="container">
             <div className="row">
               <div className="col-md-12 text-center">
-                <h1 className="display-3 mb-4">Ontwikkelaars Verbinder</h1>
+                <h1 className="display-3 mb-4">Coders Connect</h1>
                 <p className="lead">
                   {" "}
-                  Maak een ontwikkelaars profiel/portfolio, deel berichten en
-                  krijg hulp van andere ontwikkelaars
+                  Ben je programmeur of ontwikkelaar? Maak dan je
+                  profiel/portfolio aan. Deel dan je berichten en krijg hulp van
+                  andere programmeurs en ontwikkelaars.
                 </p>
                 <hr />
                 <Link to="/register" className="btn btn-lg btn-info mr-2">
